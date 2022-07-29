@@ -1,0 +1,66 @@
+.nav {
+    display: flex;
+}
+
+.locationpin {
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 0.5cm !important;
+}
+
+.locationpin1 {
+    font-size: 19px !important;
+}
+
+.select {
+    color: gray;
+    font-size: 11px;
+    margin-top: 1cm !important;
+    margin-left: 220px;
+    cursor: pointer;
+}
+
+Card:hover {
+    display: block;
+}
+
+.city {
+    color: black;
+    font-size: 13px;
+    word-spacing: -1px;
+    margin-left: 220px;
+    margin-top: 30px !important;
+    cursor: pointer;
+}
+
+
+
+.icons {
+    margin-left: 350px !important;
+    font-size: 0.5cm !important;
+    margin-top: 20px !important;
+}
+
+.img {
+    max-width: 3%;
+    height: 3%;
+    margin-top: 25px;
+    margin-left: 120px;
+    border-color: Black;
+}
+
+.locationCities {
+    margin-top: 15px;
+}
+
+.Searchbar {
+    margin-top: 20px !important;
+}
+
+.text {
+    width: 370px !important;
+}
+
+.text1 {
+    margin-left: -50px;
+}
